@@ -18,5 +18,7 @@ public class Ex6 {
             System.out.println("잘못된 입력입니다.");
         }
         scanner.close();
+
+        //test
     }
 }
