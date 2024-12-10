@@ -36,8 +36,6 @@ public class Ex5 {
                 System.out.println("잘못된 입력입니다.");
                 break;
             }
-            scanner.close();
         }
     }
-
 }

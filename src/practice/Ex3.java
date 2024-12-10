@@ -9,7 +9,7 @@ public class Ex3 {
         while (i < 10) {
             int j = 1;// 곱하는 수를 초기화 해줘야지만 J <10 안에 들어서 다시 루프를 돌 수 있음.
             while (j < 10) {
-                System.out.println(i + "*" + j + " = " + i*j);
+                System.out.print(j + "*" + i + " = " + i*j + "\t");
                 j++;
             }
             System.out.println();
